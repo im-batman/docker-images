@@ -1,4 +1,4 @@
-FROM jupyter/base-notebook
+FROM bojankles/raspi-jupyter
 
 USER root
 
